@@ -7,6 +7,7 @@ Conversor el cual tiene la función de hacer las siguientes:
 - Convertir de peso Colombiano  a Libras Esterlinas
 - Convertir de peso Colombiano  a Yen Japonés
 - Convertir de peso Colombiano
+
 también se puede convertir inversamente, es decir:
 
 - Convertir de Dólar a peso Colombiano
